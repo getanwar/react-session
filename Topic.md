@@ -4,12 +4,12 @@
 - [x] Hooks (built in + custom)
 - [x] Fragment & Keys
 - [x] Useless re-render
-- Context
-- Redux / useReducer
-- Router
-- Forms
-- Higher Order Component
-- Add external JS / jQuery plugins
-- SWR / React Query
-- Profiler
-- Styled Component
+- [ ] Context
+- [ ] Redux / useReducer
+- [ ] Router
+- [ ] Forms
+- [ ] Higher Order Component
+- [ ] Add external JS / jQuery plugins
+- [ ] SWR / React Query
+- [ ] Profiler
+- [ ] Styled Component

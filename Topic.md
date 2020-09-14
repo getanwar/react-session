@@ -6,7 +6,7 @@
 - [x] Useless re-render
 - [x] Context
 - [x] Redux / useReducer
-- [ ] Router
+- [ ] Router (Public / Auth Routes)
 - [ ] Forms
 - [ ] Higher Order Component
 - [ ] Add external JS / jQuery plugins

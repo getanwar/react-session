@@ -4,8 +4,8 @@
 - [x] Hooks (built in + custom)
 - [x] Fragment & Keys
 - [x] Useless re-render
-- [ ] Context
-- [ ] Redux / useReducer
+- [x] Context
+- [x] Redux / useReducer
 - [ ] Router
 - [ ] Forms
 - [ ] Higher Order Component

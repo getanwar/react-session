@@ -30,5 +30,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "schema-utils": "^2.7.1",
+    "vanillajs-datepicker": "^1.0.3"
   }
 }

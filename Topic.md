@@ -1,4 +1,5 @@
 ## React
+
 - [x] CRA
 - [x] Components
 - [x] Props & States
@@ -8,17 +9,19 @@
 - [x] Context
 - [x] Redux / useReducer
 - [ ] Render Props
-- [ ] Router (Public / Auth Routes)
+- [x] Router (Public / Auth Routes)
 - [ ] Forms
-- [ ] Refs
+- [x] Refs
 - [ ] Portals
 - [ ] Uncontrolled Components
-- [ ] Higher Order Component
-- [ ] Add external JS / jQuery plugins
+- [x] Higher Order Component
+- [x] Add external JS / jQuery plugins
 - [ ] SWR / React Query
 - [ ] Profiler
 - [ ] Styled Component
 
 ## Next.js
+
 ## Nodejs
+
 ## GraphQL

@@ -1,4 +1,13 @@
 async function main() {
+  
+  // WHEN AND HOW TO CREATE CUSTOM PROMISE
+  //   const promise = new Promise((respose, reject) => {
+  //     writeFileSync('path', (err, data) => {
+  //         err ? reject(err) : response(data);
+  //     });
+  //   })
+  //   var aaa = await promise()
+
   var data = await fetch(
     "https://jsonplaceholder.typicode.com/posts"
   ).then((respose) => respose.json());
@@ -12,14 +21,6 @@ async function main() {
       "https://jsonplaceholder.typicode.com/posts/" + post.id + "/comments";
     return fetch(url).then((res) => res.json()); // returns a promise
   }
-
-  // WHEN AND HOW TO CREATE CUSTOM PROMISE
-  //   const promise = new Promise((respose, reject) => {
-  //     writeFileSync('path', (err, data) => {
-  //         err ? reject(err) : response(data);
-  //     });
-  //   })
-  //   var aaa = await promise()
 
   var arr = data.map(mapOver);
 
